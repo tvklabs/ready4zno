@@ -1,2 +1,2 @@
-# ready4zno.github.io
+# ready4zno.github.ua
 It contains information about mobile applications.

@@ -1,2 +1,2 @@
-# ready4zno
-The repository contains information about mobile applications for teaching schoolchildren.
+# ready4zno.github.io
+It contains information about mobile applications.
